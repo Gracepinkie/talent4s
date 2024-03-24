@@ -44,5 +44,7 @@ finalprojectapp/
 node_modules/
 \\.
 .mp3
+.vercel
 
 
+.vercel
