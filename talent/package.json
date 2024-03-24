@@ -1,0 +1,23 @@
+{
+  "name": "talent",
+  "version": "1.0.0",
+  "description": "cashapp",
+  "main": "index.js",
+  "scripts": {
+    "dev": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "backend"
+  },
+  "keywords": [
+    "dps",
+    "resto",
+    "app"
+  ],
+  "author": "sinethemba",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
