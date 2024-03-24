@@ -42,5 +42,7 @@ finalprojectapp/
 **\finalprojectapp
 ../
 node_modules/
+\\.
+.mp3
 
 
