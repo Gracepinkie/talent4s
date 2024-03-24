@@ -38,6 +38,6 @@ Thumbs.db
 node_modules
 croissant
 finalprojectapp
-croissant/
-finalprojectapp/
+**\croissant
+**\finalprojectapp
 
